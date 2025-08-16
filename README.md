@@ -1,8 +1,10 @@
-# Customer-Satisfaction-and-Loyalty-Analytics
+# DATADNA-Fitness-Membership- August-2025-Challenge-Analysis
 
-![Customer Satisfaction & Loyalty Dashboard](https://github.com/Haruharun/Customer-Satisfaction-and-Loyalty-Analytics/blob/713219075e96b29a5d7cdb8aca4d77293503613c/Screenshot%202025-07-17%20151344.png)
+![MYGYM Fitness Dashoard](https://github.com/Haruharun/DATADNA-Fitness-Membership-Challenge-/blob/9d821ea573518cb515c84c26fdb973dd350f5e34/Screenshot%202025-08-16%20142542.png)
 
-![Customer Satisfaction & Loyalty Dashboard](https://github.com/Haruharun/Customer-Satisfaction-and-Loyalty-Analytics/blob/6c3b56ca4e1b9af4292f095ff142cd5cfba16c18/Screenshot%202025-07-17%20151321.png)
+![MYGYM Fitness Dashoard](https://github.com/Haruharun/DATADNA-Fitness-Membership-Challenge-/blob/9d821ea573518cb515c84c26fdb973dd350f5e34/Screenshot%202025-08-16%20142542.png)
+
+![MYGYM Fitness Dashoard](https://github.com/Haruharun/DATADNA-Fitness-Membership-Challenge-/blob/9d821ea573518cb515c84c26fdb973dd350f5e34/Screenshot%202025-08-16%20142542.png)
                                               
 ### Dashboard live link : https://shorturl.at/aZfTz
 
