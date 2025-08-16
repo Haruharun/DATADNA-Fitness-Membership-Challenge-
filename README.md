@@ -43,13 +43,13 @@ In a competitive fitness market, understanding how members engage with services 
 - **Churn Rate Remains High**
 Retention sits at 12.5%, with churn at 87.5%, highlighting an urgent need for loyalty-focused strategies.
 
-- ** 	Monthly Subscriptions Dominate**
+- **Monthly Subscriptions Dominate**
 Across dashboards, monthly plans are preferred by over 55% of members, indicating demand for flexibility.
 
 - **Premium Memberships Lead in Adoption**
 Premium tiers consistently attract the highest number of members, suggesting strong perceived value.
 
-- **	Young Adults Drive Engagement**
+- **Young Adults Drive Engagement**
 Members aged 18–35 lead in workout duration (107 minutes), showing high commitment and potential for long-term retention.
 
 - **Gender Engagement Is Uniform**
@@ -85,10 +85,10 @@ Invest in group lessons, sauna facilities, and personal training to reinforce sa
 - **Optimize Regional Pricing Strategies**
 Review discount rates and revenue performance to balance profitability and member acquisition.
 
-- **	Leverage Premium Membership Insights**
+- **Leverage Premium Membership Insights**
 Study premium member behavior to replicate success across other tiers.
 
-- ** 	Target Young Adults with Tailored Offers**
+- ** Target Young Adults with Tailored Offers**
 Design campaigns and services that align with the preferences of the 18–35 age group to boost retention.
 
 
