@@ -6,7 +6,7 @@
 
 ![MYGYM Fitness Dashoard](https://github.com/Haruharun/DATADNA-Fitness-Membership-Challenge-/blob/4aad9e0eb5cd2aaf0f62d56c8ae75cc1e2507327/Screenshot%202025-08-15%20164629.png)
                                               
-### Dashboard live link : https://shorturl.at/aZfTz
+### Dashboard live link :https://shorturl.at/RKruJ
 
 
 ## Overview  
