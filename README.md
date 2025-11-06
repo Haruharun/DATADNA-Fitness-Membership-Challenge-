@@ -1,4 +1,4 @@
-# DATADNA-Fitness-Membership- August-2025-Challenge-Analysis
+# DATADNA-Fitness-Membership- August-2025-Challenge-Analysis.
 
 ![MYGYM Fitness Dashoard](https://github.com/Haruharun/DATADNA-Fitness-Membership-Challenge-/blob/9d821ea573518cb515c84c26fdb973dd350f5e34/Screenshot%202025-08-16%20142542.png)
 
